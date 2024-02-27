@@ -18,7 +18,7 @@
 |Verifying Media Truth / Legitimacy|Data Storage & Verification|Content Authenticity Initiative, ProofMode, Open Referral|
 |Digital Archiving|Data Storage & Verification|Filecoin, Starling Lab, Arweave, Filecoin, MuckRock|
 |Fundraising|Financial Transactions|The Giving Block, Pathways to Education, Movember|
-|Participatory Grant Making and Community Funds|Financial Transactions|Endaoment|
+|Participatory Grant Making and Community Funds|Financial Transactions|Endowment|
 |Public Goods Funding|Financial Transactions|Gitcoin|
 |Humanitarian Cash Aid Transfers|Financial Transactions|The Giving Block, Building Blocks, Save the Children, Project Unblocked Cash|
 |Banking the Unbanked|Financial Transactions|EMPACT|
