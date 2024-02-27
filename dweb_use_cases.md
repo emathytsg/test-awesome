@@ -45,4 +45,4 @@ table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sor
 |Private Browsing|Local Community Networks|Tor Project|
 |Censorship Resistant Media|Local Community Networks|Distributed Press, PeerTube (Fediverse), MuckRock|
 |Distributed Governance||Open Referral
-<script>$( "table" ).last().addClass( "sortable" );</script>
+<script type="text/javascript">$( "table" ).last().addClass( "sortable" );</script>
