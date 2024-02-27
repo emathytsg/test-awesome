@@ -1,3 +1,19 @@
+EXTRA_HEAD_DATA = """
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/sorttable.js"></script>
+"""
+
+table.sortable thead {
+    background-color:#eee;
+    color:#112233;
+    font-weight: bold;
+    cursor: default;
+}
+
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
+    content: " \25B4\25BE"
+}
+
 <div align=center>
 	<img src=media/Accel-Makers-Notion-Banner2.png alt=Public Good App House - Accelerating Makers>
 </div>
@@ -29,3 +45,4 @@
 |Private Browsing|Local Community Networks|Tor Project|
 |Censorship Resistant Media|Local Community Networks|Distributed Press, PeerTube (Fediverse), MuckRock|
 |Distributed Governance||Open Referral
+<script>$( "table" ).last().addClass( "sortable" );</script>
