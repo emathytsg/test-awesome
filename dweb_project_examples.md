@@ -12,14 +12,14 @@
 
 Name|Category|Use Cases|Type|Domain|DWeb Technology Used|Project Status|URL|
 |:--- |:--- |:--- |:--- |:--- |:--- |:--- |:--- |
-|# Open Referral|Data Storage and Verification|Verifying Media Truth / Legitimacy, Digital Identification Management, Distributed Governance|Implementation, Pilot Program, Tool / Resource,Health|Open API, Open Standards||Active|https://openreferral.org/|
-|# Content Authenticity Initiative|Data Storage and Verification|Verifying Media Truth / Legitimacy|Implementation, Tool / Resource|Media, Universally Applicable|Content ID, Open Source Software, Open Standards|Active|https://contentauthenticity.org/|
-|# OpenSC|Data Storage and Verification|Supply Chain Traceability|Tool / Resource|Environment, Food, Impact Reporting|Blockchain, Smart Contract|Active|https://opensc.org|
-|## WWF - Tuna Fishing Traceability|Data Storage and Verification|Supply Chain Traceability|Implementation|||Appears Inactive|https://theconversation.com/how-blockchain-is-strengthening-tuna-traceability-to-combat-illegal-fishing-89965|
-|# De Beers - Diamond Supply Chain|Data Storage and Verification|Supply Chain Traceability|Implementation||||https://www.debeersgroup.com/media/company-news/2022/de-beers-group-introduces-worlds-first-blockchain-backed-diamond-source-platform-at-scale|
-|# Grain Discovery|Data Storage and Verification|Supply Chain Traceability|Tool / Resource||||https://graindiscovery.com/home|
-|# Cello Trust - Samsung SDS|Data Storage and Verification|Supply Chain Traceability|Implementation|||Active|https://www.samsungsds.com/en/blockchain-logistics-platform/cello-trust.html|
-|# Evercity|Data Storage and Verification|Impact Reporting|Tool / Resource|Environment, Impact Reporting|Blockchain, Cryptocurrency / Tokens, Digital Wallet, NFT, Smart Contract|Active|https://evercity.io/|
+| # Open Referral|Data Storage and Verification|Verifying Media Truth / Legitimacy, Digital Identification Management, Distributed Governance|Implementation, Pilot Program, Tool / Resource,Health|Open API, Open Standards||Active|https://openreferral.org/|
+| # Content Authenticity Initiative|Data Storage and Verification|Verifying Media Truth / Legitimacy|Implementation, Tool / Resource|Media, Universally Applicable|Content ID, Open Source Software, Open Standards|Active|https://contentauthenticity.org/|
+| # OpenSC|Data Storage and Verification|Supply Chain Traceability|Tool / Resource|Environment, Food, Impact Reporting|Blockchain, Smart Contract|Active|https://opensc.org|
+| <a href="#wwf_-_tuna_fishing_traceability"></a> WWF - Tuna Fishing Traceability|Data Storage and Verification|Supply Chain Traceability|Implementation|||Appears Inactive|https://theconversation.com/how-blockchain-is-strengthening-tuna-traceability-to-combat-illegal-fishing-89965|
+| # De Beers - Diamond Supply Chain|Data Storage and Verification|Supply Chain Traceability|Implementation||||https://www.debeersgroup.com/media/company-news/2022/de-beers-group-introduces-worlds-first-blockchain-backed-diamond-source-platform-at-scale|
+| # Grain Discovery|Data Storage and Verification|Supply Chain Traceability|Tool / Resource||||https://graindiscovery.com/home|
+| # Cello Trust - Samsung SDS|Data Storage and Verification|Supply Chain Traceability|Implementation|||Active|https://www.samsungsds.com/en/blockchain-logistics-platform/cello-trust.html|
+| # Evercity|Data Storage and Verification|Impact Reporting|Tool / Resource|Environment, Impact Reporting|Blockchain, Cryptocurrency / Tokens, Digital Wallet, NFT, Smart Contract|Active|https://evercity.io/|
 |# ixo Protocol|Data Storage and Verification|Impact Reporting|||||https://www.ixo.world/|
 |# GiveTrack|Data Storage and Verification|Impact Reporting||||Active|https://www.givetrack.org|
 |# MOSIP|Data Storage and Verification|Digital Identification Management|Implementation, Tool / Resource|Community Development, Universally Applicable|Open API, Open Source Software, Open Standards|Active|https://www.mosip.io/|
