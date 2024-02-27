@@ -12,7 +12,7 @@
 
 |Name|Category|DWeb Example Solutions|
 |:--- |:--- |:--- |
-|Supply Chain Traceability|Data Storage & Verification|OpenSC, [WWF - Tuna Fishing Traceability](./dweb_project_examples.md#wwf_-_tuna_fishing_traceability), De Beers - Diamond Supply Chain, Grain Discovery, Cello Trust - Samsung SDS, Distributed Press|
+|Supply Chain Traceability|Data Storage & Verification|OpenSC, [WWF - Tuna Fishing Traceability](./dweb_project_examples.md#wwf_tuna_fishing_traceability), De Beers - Diamond Supply Chain, Grain Discovery, Cello Trust - Samsung SDS, Distributed Press|
 |Impact Reporting|Data Storage & Verification|Evercity, ixo Protocol, GiveTrack, GAP (Karma)|
 |Digital Identification Management|Data Storage & Verification|MOSIP, Hoseo University, Proof of Humanity, Open Referral|
 |Verifying Media Truth / Legitimacy|Data Storage & Verification|Content Authenticity Initiative, ProofMode, Open Referral|
