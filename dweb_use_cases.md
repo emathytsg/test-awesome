@@ -1,8 +1,7 @@
-EXTRA_HEAD_DATA = """
 <script type="text/javascript" src="/js/jquery.min.js"></script>
 <script type="text/javascript" src="/js/sorttable.js"></script>
-"""
 
+<style>
 table.sortable thead {
     background-color:#eee;
     color:#112233;
@@ -13,6 +12,7 @@ table.sortable thead {
 table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {
     content: " \25B4\25BE"
 }
+</style>
 
 <div align=center>
 	<img src=media/Accel-Makers-Notion-Banner2.png alt=Public Good App House - Accelerating Makers>
